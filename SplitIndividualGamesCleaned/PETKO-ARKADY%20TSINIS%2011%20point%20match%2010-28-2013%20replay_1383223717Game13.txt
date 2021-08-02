@@ -1,0 +1,4 @@
+1,,,41,13/9 6/5
+2,62,24/16*,44,Bar/21 24/20 13/9* 9/5
+3,66,Cannot Move,,Doubles => 2
+4,,Drops,,Wins 1 point

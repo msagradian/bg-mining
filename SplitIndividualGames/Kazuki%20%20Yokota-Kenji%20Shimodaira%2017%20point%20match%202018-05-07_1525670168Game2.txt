@@ -1,0 +1,14 @@
+Game2
+ Kazuki  Yokota : 6                    Kenji Shimodaira : 0
+  1)                                   64: 24/18 13/9                    
+  2) 54: 24/20 6/1*                    65: Bar/14                        
+  3) 42: 13/11* 11/7*                  64: Bar/21                        
+  4) 55: 13/3 8/3 6/1                  44: Bar/21 13/5* 9/5              
+  5) 65: Cannot Move                   51: 13/8 6/5                      
+  6) 52: Bar/23 7/2                    55: 8/3(2) 6/1*(2)                
+  7) 54: Bar/21 13/8                    Doubles => 2                     
+  8)  Drops                             Wins 1 point
+
+
+
+ 

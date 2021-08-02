@@ -1,0 +1,10 @@
+Game10
+ Fernando Newmark : 8                  Mochy : 6
+  1)                                   42: 8/4 6/4                       
+  2) 54: 24/20 13/8                    33: 8/5*(2) 6/3(2)                
+  3) 42: Bar/23 13/9                    Doubles => 2                     
+  4)  Drops                             Wins 1 point
+
+
+
+ 

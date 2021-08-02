@@ -1,0 +1,10 @@
+Game7
+ Francois Tardieu : 2                  Jerry Grandell : 10
+  1) 41: 24/23 13/9                    54: 24/15                         
+  2) 33: 13/10*(2) 6/3(2)              33: Cannot Move                   
+  3)  Doubles => 2                      Drops                            
+      Wins 1 point
+
+
+
+ 

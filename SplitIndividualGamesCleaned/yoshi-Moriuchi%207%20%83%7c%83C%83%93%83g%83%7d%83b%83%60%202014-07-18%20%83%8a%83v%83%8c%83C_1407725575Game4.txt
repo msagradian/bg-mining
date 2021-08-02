@@ -1,0 +1,17 @@
+1,53,8/3 6/3,54,24/20 13/8
+2,62,13/5*,63,Cannot Move
+3,,Doubles => 2,,Takes
+4,44,13/5 8/4(2),53,Cannot Move
+5,51,13/8 6/5,44,Cannot Move
+6,64,8/2 6/2,55,Cannot Move
+7,66,13/1*(2),64,Cannot Move
+8,42,24/22 24/20,42,Cannot Move
+9,54,22/13,64,Cannot Move
+10,44,20/16 13/1,21,Cannot Move
+11,41,16/11,32,Cannot Move
+12,54,11/2,66,Cannot Move
+13,31,6/5 6/3,65,Bar/19
+14,21,2/Off 1/Off,64,Bar/15
+15,55,5/Off(4),43,19/12
+16,32,3/Off 2/Off,52,????
+,,Wins 4 point,,

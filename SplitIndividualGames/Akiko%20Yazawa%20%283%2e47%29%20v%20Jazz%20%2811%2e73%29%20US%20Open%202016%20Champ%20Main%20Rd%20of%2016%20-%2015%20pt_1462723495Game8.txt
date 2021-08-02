@@ -1,0 +1,35 @@
+Game8
+ Akiko Yazawa : 5                      Jazz : 7
+  1)                                   21: 13/11 6/5                     
+  2) 52: 24/22 13/8                    62: 24/22 11/5                    
+  3) 42: 8/4 6/4                       53: 8/3* 6/3                      
+  4) 22: Bar/21 13/11(2)               53: 13/5                          
+  5) 31: 8/5 6/5                       51: 13/8 5/4*                     
+  6) 64: Bar/21* 21/15                 42: Bar/23 22/18                  
+  7)  Doubles => 2                      Takes                            
+  8) 21: 8/7* 7/5                      66: Cannot Move                   
+  9) 11: 5/2* 2/1*                     54: Cannot Move                   
+ 10) 64: 11/1                          63: Bar/22                        
+ 11) 51: 11/10 8/3*                    65: Cannot Move                   
+ 12) 42: 15/9                          64: Cannot Move                   
+ 13) 55: 13/8 13/3 10/5                41: Cannot Move                   
+ 14) 51: 24/18                         33: Cannot Move                   
+ 15) 21: 9/7 5/4                       62: Bar/23                        
+ 16) 21: 6/5 4/2*                      65: Cannot Move                   
+ 17) 54: 18/14 7/2                     22: Cannot Move                   
+ 18) 62: 14/6                          62: Cannot Move                   
+ 19) 61: 8/1                           66: Cannot Move                   
+ 20) 63: 6/Off 5/2                     41: Cannot Move                   
+ 21) 43: 6/3 6/2                       63: Bar/19                        
+ 22) 32: 3/Off 2/Off                   51: Cannot Move                   
+ 23) 21: 2/Off 1/Off                   53: Cannot Move                   
+ 24) 21: 5/4 5/3                       31: Cannot Move                   
+ 25) 64: 4/Off(2)                      61: Bar/19                        
+ 26) 42: 4/Off 3/1                     62: Bar/17                        
+ 27) 62: 3/Off 2/Off                   65: 19/14 19/13                   
+ 28) 42: 3/Off 2/Off                   
+      Wins 4 point
+
+
+
+ 

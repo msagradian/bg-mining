@@ -1,0 +1,12 @@
+Game3
+ Yuuki Takahashi : 0                   Hiroyuki Itamochi : 2
+  1) 42: 8/4 6/4                       31: 8/5 6/5                       
+  2) 52: 24/22 13/8                    53: 8/3* 6/3                      
+  3) 62: Bar/17*                       21: Bar/22                        
+  4) 31: 8/5 6/5                       61: 13/6                          
+  5)  Doubles => 2                      Drops                            
+      Wins 1 point
+
+
+
+ 

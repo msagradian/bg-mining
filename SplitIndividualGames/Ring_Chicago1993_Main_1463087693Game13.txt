@@ -1,0 +1,7 @@
+Game13
+ Ring : 9                        Davis : 10
+  1) 31: 8/5 6/5                 32: 24/21 13/11 
+  2)  Doubles => 2                Drops
+      Wins 1 point               
+
+ 

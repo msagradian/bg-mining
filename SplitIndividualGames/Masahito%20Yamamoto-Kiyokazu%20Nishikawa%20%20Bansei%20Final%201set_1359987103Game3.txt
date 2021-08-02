@@ -1,0 +1,24 @@
+Game3
+ Masahito Yamamoto : 0                 Kiyokazu Nishikawa : 4
+  1)                                   43: 24/21 13/9                    
+  2) 55: 8/3(2) 6/1*(2)                55: Bar/20 13/3 8/3               
+  3) 64: 24/18 8/4*                    43: Bar/21* 9/6                   
+  4) 53: Bar/20 18/15                  41: 6/5* 5/1*                     
+  5) 62: Bar/23                        66: 13/1 8/2*(2)                  
+  6) 21: Cannot Move                   53: 13/8 13/10*                   
+  7) 64: Bar/21                        64: 10/4* 8/4                     
+  8) 62: Cannot Move                   41: 20/15                         
+  9) 51: Bar/20                        66: 21/3 15/9                     
+ 10) 31: Cannot Move                   31: 6/5* 5/2                      
+ 11) 41: Cannot Move                   54: 9/Off                         
+ 12) 52: Bar/20                        11: 6/5*(2) 2/Off                 
+ 13) 44: Cannot Move                   53: 6/3 6/1                       
+ 14) 54: Cannot Move                   64: 5/1 5/Off                     
+ 15) 33: Cannot Move                   21: 3/2 3/1                       
+ 16) 52: Bar/20                        66: 4/Off(2) 3/Off(2)             
+ 17) 44: Bar/17(2)                     53: 2/Off(2)                      
+                                        Wins 2 point
+
+
+
+ 

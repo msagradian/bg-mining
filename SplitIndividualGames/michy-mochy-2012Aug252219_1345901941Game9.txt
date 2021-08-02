@@ -1,0 +1,26 @@
+Game9
+ mochy : 3                             michy : 9
+  1) 54: 13/9 13/8                     66: 24/18(2) 13/7(2)              
+  2) 32: 24/22 8/5                     55: 8/3*(2) 6/1*(2)               
+  3) 62: Bar/23                        22: 7/5(2) 6/2*                   
+  4) 11: Cannot Move                   31: 13/9                          
+  5) 51: Cannot Move                   66: 13/7 13/1 8/2                 
+  6) 54: Bar/21                        43: 18/14 7/4*                    
+  7) 32: Cannot Move                   31: 14/10                         
+  8) 21: Cannot Move                   63: 18/15 10/4                    
+  9) 65: Cannot Move                   21: 15/13 9/8                     
+ 10) 51: Cannot Move                   51: 13/7                          
+ 11) 51: Cannot Move                   31: 8/5 7/6                       
+ 12) 63: Cannot Move                   61: 6/Off 5/4                     
+ 13) 66: Cannot Move                   52: 6/4 6/1                       
+ 14) 44: Cannot Move                   53: 5/2 5/Off                     
+ 15) 65: Bar/20 Bar/19                 43: 4/Off 3/Off                   
+ 16) 64: 20/10                         61: 4/Off 1/Off                   
+ 17) 54: 19/14 10/6                    64: 4/Off(2)                      
+ 18) 31: 13/12 9/6                     63: 3/Off 2/Off                   
+ 19) 53: 14/6                          31: 2/Off 1/Off                   
+ 20) 21: ????                           Wins 2 point and the match
+
+
+
+

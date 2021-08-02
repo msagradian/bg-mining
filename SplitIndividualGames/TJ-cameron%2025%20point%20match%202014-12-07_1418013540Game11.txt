@@ -1,0 +1,32 @@
+Game11
+ TJ : 16                               cameron : 13
+  1)                                   43: 13/10 13/9                    
+  2) 31: 8/5 6/5                       32: 10/7 9/7                      
+  3) 55: 13/3(2)                       43: 8/4 7/4                       
+  4)  Doubles => 2                      Takes                            
+  5) 65: 24/18* 18/13                  42: Bar/21 6/4                    
+  6) 54: 24/15                         32: 13/10* 10/8                   
+  7) 62: Bar/23 13/7                   62: 24/18* 4/2*                   
+  8) 55: Bar/20(2) 6/1*(2)             63: Cannot Move                   
+  9) 42: 13/7*                         61: Cannot Move                   
+ 10) 31: 8/4*                          53: Cannot Move                   
+ 11) 42: 13/11 8/4                     52: Bar/23                        
+ 12) 53: 11/8 7/2*                     11: Cannot Move                   
+ 13) 51: 8/2                           42: Cannot Move                   
+ 14) 63: 20/11                         42: Cannot Move                   
+ 15) 54: 20/15 13/9                    61: Cannot Move                   
+ 16) 31: 15/14 9/6                     55: Cannot Move                   
+ 17) 64: 14/4                          41: Cannot Move                   
+ 18) 44: 11/3 6/2 4/Off                65: Cannot Move                   
+ 19) 21: 3/Off                         66: Cannot Move                   
+ 20) 64: 6/2 6/Off                     54: Cannot Move                   
+ 21) 54: 5/1 5/Off                     11: Cannot Move                   
+ 22) 51: 4/3 4/Off                     61: Bar/19                        
+ 23) 44: 3/Off(3) 2/Off                65: Bar/20 Bar/19                 
+ 24) 62: 2/Off(2)                      51: 20/15 19/18                   
+ 25) 55: 2/Off 1/Off(3)                
+      Wins 6 point
+
+
+
+ 

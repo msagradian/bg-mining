@@ -1,0 +1,32 @@
+Game7
+ Kensaku Okatani : 3                   Yuki Takahashi : 5
+  1)                                   52: 24/22 13/8                    
+  2) 52: 8/3* 3/1*                     31: Bar/22 Bar/24*                
+  3) 64: Bar/15                        55: 13/3(2)                       
+  4) 31: 8/5 6/5                       42: 8/4 6/4                       
+  5) 42: 8/4 6/4                       61: 24/17                         
+  6) 52: 13/11 13/8*                   53: Bar/17*                       
+  7) 43: Cannot Move                   11: 8/7(2) 6/5(2)                 
+  8) 63: Cannot Move                   21: 17/14*                        
+  9) 54: Cannot Move                   52: 22/15                         
+ 10) 52: Bar/23                        66: 15/9 14/2* 8/2                
+ 11) 64: Cannot Move                   61: 13/6                          
+ 12) 53: Cannot Move                   41: 9/4                           
+ 13) 51: Bar/24                        43: 13/10* 7/3                    
+ 14) 32: Cannot Move                   52: 10/5 7/5                      
+ 15) 32: Cannot Move                   21: 5/2                           
+ 16) 62: Cannot Move                   64: 6/Off 4/Off                   
+ 17) 54: Cannot Move                   51: 5/Off 3/2                     
+ 18) 54: Cannot Move                   62: 6/4 6/Off                     
+ 19) 52: Cannot Move                   51: 5/4 5/Off                     
+ 20) 62: Bar/19                        54: 4/Off(2)                      
+ 21) 31: Bar/24 13/10                  41: 4/3 4/Off                     
+ 22) 11: 13/12 10/7                    43: 3/Off(2)                      
+ 23) 65: 24/19 24/18                   21: 3/Off                         
+ 24) 66: 24/18 19/13 19/7              54: 2/Off(2)                      
+ 25) 31: 12/8                          41: 2/1* 2/Off                    
+ 26) 54: ????                           Wins 7 point and the match
+
+
+
+

@@ -1,0 +1,7 @@
+Game8
+ toshi,1788 : 5                   minack,1936 : 8
+  1) 42: 8/4 6/4                 52: 13/8 24/22
+  2)  Doubles => 2                Drops
+      Wins 1 point
+
+ 

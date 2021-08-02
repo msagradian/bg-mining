@@ -1,0 +1,4 @@
+1,,,32,24/21 13/11
+2,55,8/3(2) 6/1*(2),31,Cannot Move
+3,,Doubles => 2,,Drops
+,,Wins 1 point,,

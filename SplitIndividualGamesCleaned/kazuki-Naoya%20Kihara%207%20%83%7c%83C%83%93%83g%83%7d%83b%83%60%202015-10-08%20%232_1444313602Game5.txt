@@ -1,0 +1,31 @@
+1,,,52,24/22 13/8
+2,53,8/3* 6/3,,Doubles => 2
+3,,Takes,52,Bar/20 13/11
+4,31,8/5* 6/5,54,Bar/16
+5,54,13/8 13/9*,63,Cannot Move
+6,61,13/7 8/7,66,Cannot Move
+7,64,24/14*,64,Bar/21
+8,65,7/1* 6/1,32,Bar/23
+9,41,24/23 8/4*,33,Cannot Move
+10,54,14/10 9/4,44,Cannot Move
+11,54,10/6 7/2*,32,Bar/23*
+12,32,Bar/22 13/11,61,Cannot Move
+13,42,11/9 6/2*,62,Bar/23*
+14,21,Bar/24 22/20,43,Cannot Move
+15,22,20/18 13/11 4/2*(2),65,Cannot Move
+16,21,24/22 11/10,61,Cannot Move
+17,64,18/8,33,Cannot Move
+18,61,22/16 8/7,65,Cannot Move
+19,64,16/6,41,Bar/21
+20,51,10/4*,43,Bar/21*
+21,55,Bar/10 9/4*,32,Cannot Move
+22,64,10/4 7/3,31,Cannot Move
+23,63,23/14,42,Cannot Move
+24,65,14/8 6/1,52,Cannot Move
+25,43,8/4 3/Off,63,Cannot Move
+26,52,6/4 6/1,62,Bar/19
+27,54,5/1 5/Off,61,Bar/19
+28,41,4/3 4/Off,42,Cannot Move
+29,32,4/2 4/1,21,Cannot Move
+30,53,3/Off(2),54,????
+,,Wins 2 point and the match,,

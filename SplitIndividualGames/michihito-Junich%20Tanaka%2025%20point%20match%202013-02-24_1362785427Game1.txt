@@ -1,0 +1,11 @@
+Game1
+ Junich Tanaka : 0                     michihito : 0
+  1) 62: 24/18 13/11                   66: 24/18(2) 13/7*(2)             
+  2) 53: Bar/20 11/8                   22: 7/5*(2) 6/4(2)                
+  3) 55: Cannot Move                   32: 13/11 8/5                     
+  4) 63: Bar/16                         Doubles => 2                     
+  5)  Drops                             Wins 1 point
+
+
+
+ 

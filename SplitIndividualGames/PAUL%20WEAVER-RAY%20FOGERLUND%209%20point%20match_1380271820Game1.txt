@@ -1,0 +1,10 @@
+Game1
+ RAY FOGERLUND : 0                     PAUL WEAVER : 0
+  1) 62: 24/18 13/11                   11: 8/7*(2) 6/5(2)                
+  2) 42: Bar/21 13/11                  33: 24/21(2) 7/4*(2)              
+  3) 54: Cannot Move                    Doubles => 2                     
+  4)  Drops                             Wins 1 point
+
+
+
+ 

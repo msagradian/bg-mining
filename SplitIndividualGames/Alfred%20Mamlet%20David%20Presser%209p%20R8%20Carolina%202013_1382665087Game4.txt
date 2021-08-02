@@ -1,0 +1,11 @@
+Game4
+ David Presser : 3                     Alfred Mamlet : 0
+  1) 31: 8/5 6/5                       64: 24/14                         
+  2) 41: 24/23 13/9                    63: 14/8 13/10                    
+  3) 55: 8/3(2) 6/1*(2)                51: Cannot Move                   
+  4)  Doubles => 2                      Drops                            
+      Wins 1 point
+
+
+
+ 

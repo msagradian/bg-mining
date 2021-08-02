@@ -1,0 +1,11 @@
+Game8
+ Falafel : 6                           Akiko : 6
+  1)                                   41: 24/23 13/9                    
+  2) 32: 24/21 13/11                   52: 9/4* 6/4                      
+  3) 64: Cannot Move                   62: 24/18 13/11                   
+  4) 66: Cannot Move                    Doubles => 2                     
+  5)  Drops                             Wins 1 point
+
+
+
+ 

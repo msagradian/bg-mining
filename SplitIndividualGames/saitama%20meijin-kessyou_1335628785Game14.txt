@@ -1,0 +1,13 @@
+Game14
+ kanten10mp : 4                        yasushi : 16
+  1) 63: 24/18 13/10                   54: 24/15*                        
+  2) 33: Bar/22 13/10* 6/3(2)          64: Bar/15*                       
+  3) 43: Bar/21 13/10*                 65: Bar/20 13/7*                  
+  4) 21: Bar/23 6/5*                   63: Cannot Move                   
+  5) 54: 22/18* 10/5                   54: Bar/21                        
+  6)  Doubles => 2                      Drops                            
+      Wins 1 point
+
+
+
+ 

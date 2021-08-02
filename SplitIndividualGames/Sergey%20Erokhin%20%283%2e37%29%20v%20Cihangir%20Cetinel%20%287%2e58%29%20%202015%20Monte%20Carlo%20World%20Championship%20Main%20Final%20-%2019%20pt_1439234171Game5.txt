@@ -1,0 +1,15 @@
+Game5
+ Sergey Erokhin : 3                    Cihangir Cetinel : 3
+  1) 32: 24/21 13/11                   41: 24/23 8/4*                    
+  2) 63: Bar/16                        64: 24/18 8/4                     
+  3) 22: 11/7* 6/4(2)                  62: Bar/23 13/7                   
+  4) 31: 16/13 8/7                     22: 13/11 13/7                    
+  5) 32: 24/22 13/10                   43: 7/3* 6/3                      
+  6) 44: Cannot Move                   64: 8/2 6/2                       
+  7) 43: Cannot Move                   65: 7/1 6/1                       
+  8) 33: Cannot Move                    Doubles => 2                     
+  9)  Drops                             Wins 1 point
+
+
+
+ 

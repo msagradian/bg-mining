@@ -1,0 +1,15 @@
+Game1
+ Wilcox Snellings : 0                  Hal Heinrich : 0
+  1)                                   53: 8/3 6/3                       
+  2) 66: 24/18(2) 13/7(2)              52: 24/22 13/8                    
+  3) 43: 7/3* 6/3                      43: Bar/18*                       
+  4) 62: Bar/23 13/7*                  55: Bar/5                         
+  5) 31: 23/20* 8/7                    64: Bar/15                        
+  6) 41: 20/15                         53: 15/10* 13/10                  
+  7) 33: Cannot Move                   44: 8/4(2) 6/2(2)                 
+  8) 33: Cannot Move                    Doubles => 2                     
+  9)  Drops                             Wins 1 point
+
+
+
+ 

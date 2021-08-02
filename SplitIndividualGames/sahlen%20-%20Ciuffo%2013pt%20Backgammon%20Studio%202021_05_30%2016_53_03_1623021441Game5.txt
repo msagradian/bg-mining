@@ -1,0 +1,9 @@
+Game5
+ sahlen : 4                             Ciuffo : 4
+  1) 43: 13/10 13/9                     64: 24/14
+  2) 52: 13/11* 6/1*                    54: bar/21 bar/20
+  3) 53: 10/5* 8/5                      65: Cannot Move
+  4)  Doubles => 2                       Drops
+  5)  Wins 1 point                      
+
+ 

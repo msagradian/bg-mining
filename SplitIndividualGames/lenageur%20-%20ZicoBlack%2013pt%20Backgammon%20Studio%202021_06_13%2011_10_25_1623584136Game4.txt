@@ -1,0 +1,31 @@
+Game4
+ lenageur : 3                           ZicoBlack : 1
+  1)                                    64: 8/2 6/2
+  2) 43: 13/10 13/9                     33: 24/21(2) 8/5(2)
+  3) 64: 10/6 9/3                        Doubles => 2
+  4)  Takes                             65: 21/10
+  5) 63: 24/15*                         33: bar/22* 13/10* 6/3(2)
+  6) 53: Cannot Move                    52: 13/11 13/8
+  7) 65: Cannot Move                    64: 10/4 8/4
+  8) 44: Cannot Move                    31: 11/7
+  9) 53: Cannot Move                    42: 7/1*
+  10) 66: Cannot Move                   21: 13/10
+  11) 54: Cannot Move                   53: 13/8 10/7
+  12) 22: Cannot Move                   55: 21/1
+  13) 64: Cannot Move                   42: 22/16
+  14) 65: Cannot Move                   21: 16/14 7/6
+  15) 53: Cannot Move                   61: 14/8 6/5
+  16) 61: Cannot Move                   65: 8/3 8/2
+  17) 63: Cannot Move                   41: 6/5 6/2
+  18) 64: bar/19                        63: 5/2 5/off
+  19) 51: Cannot Move                   62: 5/3 5/off
+  20) 66: bar/7 bar/19                  64: 4/off(2)
+  21) 64: 19/9                          43: 3/off(2)
+  22) 42: 9/5 8/6                       21: 2/off 1/off
+  23) 65: 19/8                          64: 3/off(2)
+  24) 55: 13/3 13/8(2)                  62: 2/off(2)
+  25) 61: 8/2 7/6                       66: 2/off(2) 1/off
+  26)                                    Wins 4 point
+
+
+ 

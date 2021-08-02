@@ -1,0 +1,33 @@
+Game4
+ Naoya : 0                             Yoshi : 4
+  1)                                   53: 8/3 6/3                       
+  2) 64: 8/2 6/2                       64: 24/14                         
+  3) 42: 24/20 13/11*                  65: Bar/14*                       
+  4) 42: Bar/21 13/11*                 65: Bar/14*                       
+  5) 51: Bar/20 21/20                  31: 24/21 14/13                   
+  6) 11: 6/4*(2)                       41: Bar/20                        
+  7) 53: 13/5*                         62: Cannot Move                   
+  8)  Doubles => 2                      Takes                            
+  9) 63: 20/14 8/5                     42: Cannot Move                   
+ 10) 54: 14/9 13/9                     64: Cannot Move                   
+ 11) 43: 20/13                         63: Bar/22 13/7                   
+ 12) 33: 9/3*(2)                       63: Cannot Move                   
+ 13) 31: 13/10 8/7                     21: Bar/24 7/5*                   
+ 14) 53: Bar/20* 10/7                  43: Cannot Move                   
+ 15) 61: 7/6 7/1*                      63: Cannot Move                   
+ 16) 66: 24/18 20/14 13/1              21: Cannot Move                   
+ 17) 54: 18/13 14/10                   66: Cannot Move                   
+ 18) 62: 13/11 10/4                    22: Cannot Move                   
+ 19) 22: 11/5 4/2                      61: Cannot Move                   
+ 20) 61: 6/Off 5/4                     62: Cannot Move                   
+ 21) 64: 6/2 6/Off                     53: Cannot Move                   
+ 22) 62: 5/3 5/Off                     62: Bar/19                        
+ 23) 53: 4/Off 3/Off                   42: Cannot Move                   
+ 24) 62: 4/2 4/Off                     53: Bar/17                        
+ 25) 51: 3/Off 1/Off                   21: 19/18 8/6                     
+ 26) 62: 3/Off 2/Off                   51: ????                          
+      Wins 4 point
+
+
+
+ 

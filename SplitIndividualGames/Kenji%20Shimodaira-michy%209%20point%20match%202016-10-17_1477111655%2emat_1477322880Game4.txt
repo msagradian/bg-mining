@@ -1,0 +1,28 @@
+Game4
+ Sørensen : 8                          Pronk Jacobsen : 0
+  1)                                   21: 13/11 6/5                     
+  2) 62: 13/5                          31: 24/21 6/5                     
+  3) 51: 13/8 6/5                      65: 21/10                         
+  4) 55: 8/3(2) 6/1*(2)                51: Cannot Move                   
+  5) 43: 24/21 13/9                    53: Cannot Move                   
+  6) 11: 24/21 9/8                     11: Cannot Move                   
+  7) 11: 8/7(2) 8/6                    61: Cannot Move                   
+  8) 61: 21/15* 15/14*                 11: Cannot Move                   
+  9) 53: 13/10 13/8                    42: Bar/23 Bar/21                 
+ 10) 64: 10/4* 8/4                     63: Cannot Move                   
+ 11) 51: 14/13 7/2*                    43: Cannot Move                   
+ 12) 31: 6/2                           21: Cannot Move                   
+ 13) 11: 7/3                           11: Cannot Move                   
+ 14) 61: 21/14                         43: Cannot Move                   
+ 15) 41: 14/9                          51: Cannot Move                   
+ 16) 43: 13/6                          51: Cannot Move                   
+ 17) 54: 9/4 6/2                       44: Cannot Move                   
+ 18) 55: 6/1(2) 5/Off(2)               42: Cannot Move                   
+ 19) 54: 4/Off(2)                      65: Bar/20 Bar/19                 
+ 20) 54: 4/Off 3/Off                   51: Bar/20 19/18                  
+ 21) 44: 3/Off(2) 2/Off(2)             
+      Wins 2 point
+
+
+
+ 

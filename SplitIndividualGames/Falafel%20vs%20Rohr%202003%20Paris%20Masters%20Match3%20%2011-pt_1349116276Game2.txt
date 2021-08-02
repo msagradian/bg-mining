@@ -1,0 +1,7 @@
+Game2
+ Matvey Natanzon : 0             Jean-Philippe Rohr : 1
+  1) 26: 24/18 13/11             55: 8/3 8/3 6/1* 6/1 
+  2) 11:                          Doubles => 2
+  3)  Drops                       Wins 1 point
+
+ 

@@ -1,0 +1,6 @@
+Game3
+ Schiemann : 2                   Vahab : 2
+  1) 31: 8/5 6/5                 65: 24/18 18/13 
+      Wins 1 point               
+
+ 

@@ -1,0 +1,8 @@
+Game5
+ MaPomme : 1                            ZZ : 10
+  1)                                    41: 24/23 13/9
+  2) 55: 8/3(2) 6/1*(2)                 61: Cannot Move
+  3)  Doubles => 2                       Drops
+  4)  Wins 1 point                      
+
+ 

@@ -1,0 +1,27 @@
+Game5
+ Volker Sonnabend : 0                  Eric : 7
+  1) 53: 8/3 6/3                       32: 13/11 13/10                   
+  2) 32: 13/11 13/10                   62: 10/4 6/4                      
+  3) 33: 13/10 11/5 8/5                63: 11/5 8/5                      
+  4) 52: 10/8 10/5                     62: 24/16                         
+  5) 51: 24/23 6/1*                    65: Cannot Move                   
+  6)  Doubles => 2                      Takes                            
+  7) 55: 23/8 6/1                      65: Cannot Move                   
+  8) 65: 24/13                         51: Cannot Move                   
+  9) 62: 13/7 8/6                      11: Cannot Move                   
+ 10) 64: 13/7 13/9*                    54: Bar/21                        
+ 11) 42: 8/4* 6/4                      32: Bar/23                        
+ 12) 63: 8/2* 5/2                      43: Cannot Move                   
+ 13) 63: 9/6 7/1                       53: Cannot Move                   
+ 14) 63: 7/4 6/Off                     51: Cannot Move                   
+ 15) 51: 6/5 6/1                       54: Cannot Move                   
+ 16) 54: 5/Off 4/Off                   32: Cannot Move                   
+ 17) 55: 5/Off(2) 4/Off(2)             54: Bar/21 Bar/20                 
+ 18) 31: 3/Off 1/Off                   32: 21/18 20/18                   
+ 19) 44: 3/Off 2/Off(2) 1/Off          54: 18/14 18/13                   
+ 20) 21: 1/Off(2)                      
+      Wins 4 point
+
+
+
+ 

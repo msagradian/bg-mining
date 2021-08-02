@@ -1,0 +1,37 @@
+Game3
+ Matt Cohn-Geier : 2                   Kiyokazu Nishikawa : 0
+  1)                                   61: 13/7 8/7                      
+  2) 51: 24/23 13/8                    43: 24/21 24/20                   
+  3) 32: 8/5* 6/4*                     11: Bar/24(2) 6/5(2)              
+  4) 32: 8/5 6/4                       54: 13/9 13/8                     
+  5) 31: 24/21 23/22                   11: 5/4*(2) 4/3*(2)               
+  6) 11: Bar/24(2) 8/7(2)              54: 9/4 8/4                       
+  7) 51: 13/8 6/5                      21: 24/23 24/22                   
+  8) 43: 7/3* 5/2*                     54: Cannot Move                   
+  9) 32: 8/3                           41: Bar/24                        
+ 10) 51: 24/23 7/2                     32: Cannot Move                   
+ 11)  Doubles => 2                      Takes                            
+ 12) 63: 23/14                         43: Cannot Move                   
+ 13) 44: 24/20 13/9 5/1*(2)            42: Cannot Move                   
+ 14) 22: 13/11 13/7                    43: Cannot Move                   
+ 15) 42: 9/5 7/5                       33: Cannot Move                   
+ 16) 52: 20/13                         21: Cannot Move                   
+ 17) 53: 14/6                          55: Cannot Move                   
+ 18) 11: 11/7                          55: Cannot Move                   
+ 19) 43: 13/9 7/4                      11: Cannot Move                   
+ 20) 32: 9/6 4/2                       66: Cannot Move                   
+ 21) 32: 6/4 6/3                       65: Cannot Move                   
+ 22) 41: 4/Off 2/1                     31: Cannot Move                   
+ 23) 42: 6/4 6/2                       55: Cannot Move                   
+ 24) 61: 5/4 5/Off                     42: Cannot Move                   
+ 25) 64: 4/Off(2)                      32: Cannot Move                   
+ 26) 21: 4/3 4/2                       55: Bar/20 Bar/10                 
+ 27) 21: 2/Off 1/Off                   51: 20/15 7/6                     
+ 28) 42: 3/Off 2/Off                   53: 15/12 13/8                    
+ 29) 31: 3/Off 1/Off                   21: 8/6 7/6                       
+ 30) 66: 3/Off(2) 2/Off(2)             
+      Wins 4 point
+
+
+
+ 

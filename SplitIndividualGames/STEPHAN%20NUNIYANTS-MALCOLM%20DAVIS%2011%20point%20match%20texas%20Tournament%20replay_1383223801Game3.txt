@@ -1,0 +1,12 @@
+Game3
+ STEPHAN NUNIYANTS : 0                 MALCOLM DAVIS : 3
+  1) 32: 13/11 13/10                   65: 24/13                         
+  2) 54: 24/20 6/1*                    44: Bar/21 13/9(3)                
+  3) 51: 10/5 6/5                      66: 21/3 9/3                      
+  4) 66: 13/1 8/2(2)                   32: 8/5* 5/3                      
+  5) 63: Cannot Move                    Doubles => 2                     
+  6)  Drops                             Wins 1 point
+
+
+
+ 

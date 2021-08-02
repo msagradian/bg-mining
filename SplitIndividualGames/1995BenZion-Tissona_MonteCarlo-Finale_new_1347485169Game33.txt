@@ -1,0 +1,8 @@
+Game33
+ BenZion : 22                    Tissona : 23
+  1) 61: 13/7 8/7                53: 8/3 6/3 
+  2) 22: 7/5 7/5 6/4 6/4         61: 13/7 8/7 
+  3)  Doubles => 2                Drops
+      Wins 1 point               
+
+ 

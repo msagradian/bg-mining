@@ -1,0 +1,9 @@
+Game5
+ raduciortan : 10                       ZZ : 2
+  1) 61: 13/7 8/7                       51: 24/23 13/8
+  2) 52: 24/22 13/8                     55: 8/3*(2) 6/1*(2)
+  3) 63: Cannot Move                     Doubles => 2
+  4)  Drops                              Wins 1 point
+
+
+ 

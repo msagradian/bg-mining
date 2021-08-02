@@ -1,0 +1,10 @@
+Game3
+ Wilcox Snellings : 0                  Hal Heinrich : 2
+  1) 54: 13/9 13/8                     62: 24/16*                        
+  2) 55: Bar/20 8/3(2) 6/1*            11: Bar/24* 8/7 6/5*(2)           
+  3) 65: Cannot Move                    Doubles => 2                     
+  4)  Drops                             Wins 1 point
+
+
+
+ 

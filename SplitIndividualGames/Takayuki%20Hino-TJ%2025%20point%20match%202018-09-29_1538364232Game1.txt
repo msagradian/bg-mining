@@ -1,0 +1,33 @@
+Game1
+ TJ : 0                                Takayuki Hino : 0
+  1)                                   51: 24/23 13/8                    
+  2) 52: 24/22 13/8                    44: 13/9(2) 8/4(2)                
+  3) 55: 8/3(2) 6/1*(2)                61: Cannot Move                   
+  4) 43: 13/10 6/2*                    32: Bar/23*                       
+  5) 43: Bar/22 24/20                  43: Bar/21 23/20                  
+  6) 65: 20/14 10/5*                   41: Bar/20*                       
+  7) 33: Bar/22 13/10 8/5*(2)          55: Cannot Move                   
+  8)  Doubles => 2                      Takes                            
+  9) 65: 14/9 10/4*                    53: Cannot Move                   
+ 10) 54: 22/18 9/4                     41: Cannot Move                   
+ 11) 53: 18/15 13/8                    32: Bar/23                        
+ 12) 32: 22/20 13/10                   54: Cannot Move                   
+ 13) 43: 22/15                         64: Cannot Move                   
+ 14) 62: 10/2*                         43: Cannot Move                   
+ 15) 43: 15/8                          53: Cannot Move                   
+ 16) 42: 8/2                           64: Cannot Move                   
+ 17) 32: 20/15                         64: Cannot Move                   
+ 18) 53: 15/10 8/5                     61: Cannot Move                   
+ 19) 11: 15/13 10/8                    22: Cannot Move                   
+ 20) 66: 13/1 8/2 6/Off                31: Cannot Move                   
+ 21) 51: 6/1 5/4                       22: Cannot Move                   
+ 22) 43: 5/2 5/1                       53: Bar/20                        
+ 23) 55: 4/Off(3) 3/Off                54: Bar/16                        
+ 24) 64: 3/Off 2/Off                   64: 16/6                          
+ 25) 62: 2/Off(2)                      42: 20/16 8/6                     
+ 26) 42: 2/Off 1/Off                   22: ????                          
+      Wins 4 point
+
+
+
+ 

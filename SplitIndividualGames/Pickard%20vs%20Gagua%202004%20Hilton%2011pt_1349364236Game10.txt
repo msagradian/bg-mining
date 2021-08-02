@@ -1,0 +1,8 @@
+Game10
+ Steve Pickard : 9               Nodar Gagua : 8
+  1)                             61: 13/7 8/7 
+  2)  Doubles => 2                Takes
+  3) 61: 13/7 8/7                 Doubles => 4
+  4)  Drops                       Wins 2 points
+
+ 

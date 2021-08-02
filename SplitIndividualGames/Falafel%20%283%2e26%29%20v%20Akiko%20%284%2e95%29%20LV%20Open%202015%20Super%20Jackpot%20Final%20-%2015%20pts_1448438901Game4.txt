@@ -1,0 +1,10 @@
+Game4
+ Falafel : 4                           Akiko : 1
+  1) 63: 24/18 13/10                   61: 13/7* 8/7                     
+  2) 66: Cannot Move                   55: 8/3(2) 6/1*(2)                
+  3) 61: Cannot Move                    Doubles => 2                     
+  4)  Drops                             Wins 1 point
+
+
+
+ 
