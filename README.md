@@ -4,7 +4,7 @@ Exploring patterns and anomalies in backgammon
 Exploring patterns and anomalies in backgammon
 =========
 
-Web scraping and analysing backgammon matches databases with Python. Basic rules can be found here "https://en.wikipedia.org/wiki/Backgammon#Rules".
+Web scraping and analysing backgammon matches databases with Python. Basic rules can be found here: https://en.wikipedia.org/wiki/Backgammon#Rules.
 
 ### Jupiter notebook files
 * ***AcquaringData.ipynb*** - downloads .txt match files from web-pages like "http://itikawa.com/kifdb/herodb.cgi?table=bg&view=M&sort=1&order=D&recpoint=0" and puts them into "DatabaseOfMatches" folder.
