@@ -1,7 +1,5 @@
 # bg-mining
 Exploring patterns and anomalies in backgammon
-# bg-mining
-Exploring patterns and anomalies in backgammon
 =========
 
 Web scraping and analysing backgammon matches databases with Python. Basic rules can be found here: https://en.wikipedia.org/wiki/Backgammon#Rules.
