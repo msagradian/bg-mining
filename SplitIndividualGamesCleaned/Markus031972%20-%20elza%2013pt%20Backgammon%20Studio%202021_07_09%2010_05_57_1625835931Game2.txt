@@ -1,3 +1,0 @@
-1,41,24/23 13/9,44,24/16* 6/2*(2)
-2,62,Cannot Move,,Doubles => 2
-3,,Drops,,Wins 1 point
