@@ -7,4 +7,4 @@
 7,64,21/11,31,18/14*
 8,31,bar/24 16/13,21,6/4 5/4
 9,54,13/4,,Doubles => 2
-1,,)  Drops,,Wins 1 point
+10,,)  Drops,,Wins 1 point

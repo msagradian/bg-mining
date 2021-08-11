@@ -7,17 +7,17 @@
 7,,Doubles => 2,,Takes
 8,65,18/7,42,24/22 8/4
 9,21,18/17* 17/15,54,Cannot Move
-1,) 51,15/14 8/3*,44,Cannot Move
-1,) 64,14/8 7/3,33,Cannot Move
-1,) 64,8/2 6/2,54,Cannot Move
-1,) 66,8/2(2) 7/1(2),32,Cannot Move
-1,) 55,18/8 6/1(2),22,Cannot Move
-1,) 62,8/off,55,Cannot Move
-1,) 54,5/1 5/off,22,Cannot Move
-1,) 11,2/off 1/off(2),66,bar/7 bar/19
-1,) 41,4/off 1/off,61,13/6
-1,) 64,4/off 3/off,32,19/16 13/11
-2,) 64,3/off 2/off,62,16/10 13/11
-2,) 11,2/off 1/off(2),64,11/5 10/6
-2,) 22,2/off,,
-2,,)  Wins 4 point,,
+10,51,15/14 8/3*,44,Cannot Move
+11,64,14/8 7/3,33,Cannot Move
+12,64,8/2 6/2,54,Cannot Move
+13,66,8/2(2) 7/1(2),32,Cannot Move
+14,55,18/8 6/1(2),22,Cannot Move
+15,62,8/off,55,Cannot Move
+16,54,5/1 5/off,22,Cannot Move
+17,11,2/off 1/off(2),66,bar/7 bar/19
+18,41,4/off 1/off,61,13/6
+19,64,4/off 3/off,32,19/16 13/11
+20,64,3/off 2/off,62,16/10 13/11
+21,11,2/off 1/off(2),64,11/5 10/6
+22,22,2/off,,
+23,,)  Wins 4 point,,

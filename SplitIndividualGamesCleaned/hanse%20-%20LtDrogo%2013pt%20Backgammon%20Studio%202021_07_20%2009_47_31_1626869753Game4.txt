@@ -7,4 +7,4 @@
 7,52,23/21 13/8*,42,bar/23 8/4*
 8,43,bar/21* 11/8,31,bar/24 6/3*
 9,,Doubles => 2,,Drops
-1,,)  Wins 1 point,,
+10,,)  Wins 1 point,,

@@ -7,6 +7,6 @@
 7,31,6/2,11,22/20 8/7(2)
 8,22,24/22 7/5* 5/3* 3/1,63,bar/22
 9,51,8/3* 3/2,43,bar/22 bar/21
-1,) 52,9/4* 6/4,62,Cannot Move
-1,,)  Doubles => 2,,Drops
-1,,)  Wins 1 point,,
+10,52,9/4* 6/4,62,Cannot Move
+11,,)  Doubles => 2,,Drops
+12,,)  Wins 1 point,,

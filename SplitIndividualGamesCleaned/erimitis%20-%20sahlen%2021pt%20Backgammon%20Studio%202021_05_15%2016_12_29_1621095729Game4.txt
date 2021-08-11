@@ -7,4 +7,4 @@
 7,32,8/5* 7/5,22,bar/21 24/22(2)
 8,32,7/4* 6/4,55,Cannot Move
 9,,Doubles => 2,,Drops
-1,,)  Wins 1 point,,
+10,,)  Wins 1 point,,

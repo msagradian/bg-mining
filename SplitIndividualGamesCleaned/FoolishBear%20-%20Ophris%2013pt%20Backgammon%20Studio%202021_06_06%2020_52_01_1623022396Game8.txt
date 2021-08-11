@@ -7,22 +7,22 @@
 7,21,6/3,66,13/1 8/2(2)
 8,54,21/17 21/16,64,20/10
 9,,Doubles => 2,,Takes
-1,) 33,11/5*(2),64,Cannot Move
-1,) 31,16/15* 10/7,63,Cannot Move
-1,) 42,17/13 6/4,32,bar/23
-1,) 31,10/7 3/2*,32,bar/23*
-1,) 61,Cannot Move,63,Cannot Move
-1,) 61,Cannot Move,62,bar/17
-1,) 42,bar/21 4/2*,61,bar/24 17/11
-1,) 44,13/1* 6/2,64,Cannot Move
-1,) 66,21/3 7/1,66,Cannot Move
-1,) 52,7/2 3/1,53,Cannot Move
-2,) 21,15/14* 14/12,51,Cannot Move
-2,) 62,12/4,64,Cannot Move
-2,) 66,6/off(2) 5/off(2),42,Cannot Move
-2,) 21,4/2 1/off,11,Cannot Move
-2,) 43,4/1 4/off,32,Cannot Move
-2,) 55,3/off(2) 2/off(2),51,bar/20
-2,) 21,2/1 2/off,41,bar/21 20/19
-2,) 22,1/off(4),,
-2,,)  Wins 6 point,,
+10,33,11/5*(2),64,Cannot Move
+11,31,16/15* 10/7,63,Cannot Move
+12,42,17/13 6/4,32,bar/23
+13,31,10/7 3/2*,32,bar/23*
+14,61,Cannot Move,63,Cannot Move
+15,61,Cannot Move,62,bar/17
+16,42,bar/21 4/2*,61,bar/24 17/11
+17,44,13/1* 6/2,64,Cannot Move
+18,66,21/3 7/1,66,Cannot Move
+19,52,7/2 3/1,53,Cannot Move
+20,21,15/14* 14/12,51,Cannot Move
+21,62,12/4,64,Cannot Move
+22,66,6/off(2) 5/off(2),42,Cannot Move
+23,21,4/2 1/off,11,Cannot Move
+24,43,4/1 4/off,32,Cannot Move
+25,55,3/off(2) 2/off(2),51,bar/20
+26,21,2/1 2/off,41,bar/21 20/19
+27,22,1/off(4),,
+28,,)  Wins 6 point,,

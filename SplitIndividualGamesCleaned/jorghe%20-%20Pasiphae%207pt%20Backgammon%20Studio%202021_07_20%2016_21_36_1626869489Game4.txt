@@ -7,4 +7,4 @@
 7,21,13/12* 13/11,66,Cannot Move
 8,54,12/7 11/7,65,Cannot Move
 9,,Doubles => 2,,Drops
-1,,)  Wins 1 point,,
+10,,)  Wins 1 point,,

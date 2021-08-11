@@ -7,5 +7,5 @@
 7,53,13/10 13/8,43,8/1
 8,41,10/9 8/4,43,23/16*
 9,63,bar/22 15/9*,66,Cannot Move
-1,,)  Doubles => 2,,Drops
-1,,)  Wins 1 point,,
+10,,)  Doubles => 2,,Drops
+11,,)  Wins 1 point,,

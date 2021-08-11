@@ -38,4 +38,4 @@
 38,16,1/0 1/0,54,22/17 22/18
 39,41,1/0 1/0,13,10/7 7/6
 40,23,1/0,,
-Wi,,s 4 points and the match,,
+Win,,s 4 points and the match,,

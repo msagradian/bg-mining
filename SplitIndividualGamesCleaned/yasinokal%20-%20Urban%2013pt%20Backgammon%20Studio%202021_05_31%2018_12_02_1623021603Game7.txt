@@ -7,8 +7,8 @@
 7,,Doubles => 2,,Takes
 8,32,10/5,31,10/6
 9,54,7/3 7/2,65,13/8 11/5
-1,) 44,6/2(2),51,24/18
-1,) 61,24/17*,63,bar/19 4/1*
-1,) 53,Cannot Move,51,18/17 6/1
-1,) 43,Cannot Move,,Doubles => 4
-1,,)  Drops,,Wins 2 point
+10,44,6/2(2),51,24/18
+11,61,24/17*,63,bar/19 4/1*
+12,53,Cannot Move,51,18/17 6/1
+13,43,Cannot Move,,Doubles => 4
+14,,)  Drops,,Wins 2 point

@@ -7,6 +7,6 @@
 7,22,bar/21 8/4,53,13/8 7/4*
 8,42,bar/21* 6/4,66,Cannot Move
 9,21,21/18,44,Cannot Move
-1,) 65,18/13 10/4,33,bar/22 18/15* 8/5(2)
-1,) 66,Cannot Move,,Doubles => 2
-1,,)  Drops,,Wins 1 point
+10,65,18/13 10/4,33,bar/22 18/15* 8/5(2)
+11,66,Cannot Move,,Doubles => 2
+12,,)  Drops,,Wins 1 point
