@@ -1,8 +1,0 @@
-Game7
- cafecafe : 2                           CTrencher : 5
-  1) 52: 24/22 13/8                     55: 8/3*(2) 6/1*(2)
-  2) 63: Cannot Move                     Doubles => 2
-  3)  Drops                              Wins 1 point
-
-
- 

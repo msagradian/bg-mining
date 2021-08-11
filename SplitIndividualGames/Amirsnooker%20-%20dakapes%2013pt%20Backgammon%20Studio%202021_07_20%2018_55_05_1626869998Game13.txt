@@ -1,7 +1,0 @@
-Game13
- Amirsnooker : 9                        dakapes : 12
-  1) 42: 8/4 6/4                        61: 13/7 8/7
-  2)  Doubles => 2                       Drops
-  3)  Wins 1 point                      
-
- 

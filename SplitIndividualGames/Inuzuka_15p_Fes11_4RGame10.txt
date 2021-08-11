@@ -1,7 +1,0 @@
-Game10
- minack : 14                     Inuzuka : 2
-  1) 12: 13/11 24/23              Doubles => 2
-  2)  Takes                      
-                                  Wins 4 points
-
- 

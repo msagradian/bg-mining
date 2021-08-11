@@ -1,2 +1,0 @@
-Game2, Move 1: Dice set to Manual Rolls]
-; [

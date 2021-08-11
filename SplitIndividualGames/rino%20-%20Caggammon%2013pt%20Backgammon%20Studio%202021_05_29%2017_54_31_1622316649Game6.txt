@@ -1,9 +1,0 @@
-Game6
- rino : 3                               Caggammon : 5
-  1)                                    62: 24/18 13/11
-  2) 21: 13/11 8/7*                     64: bar/21 24/18*
-  3) 44: bar/21 11/7* 8/4*(2)           64: Cannot Move
-  4)  Doubles => 2                       Drops
-  5)  Wins 1 point                      
-
- 

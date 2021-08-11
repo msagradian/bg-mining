@@ -1,8 +1,0 @@
-Game18
- Lyurix : 10                            elken : 12
-  1)                                    62: 24/18 13/11
-  2) 66: 13/7*(2) 7/1*(2)               64: bar/21
-  3)  Doubles => 2                       Drops
-  4)  Wins 1 point                      
-
- 

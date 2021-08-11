@@ -1,9 +1,0 @@
-Game2
- Jean-Philippe Rohr : 0          Jorgen Granstedt : 1
-  1)                             64: 24/18 13/9 
-  2) 66: 24/18 24/18 13/7* 13/7  66: 
-  3) 13: 8/5 6/5                 15: 25/24 9/4 
-  4)  Doubles => 2                Drops
-      Wins 1 point               
-
- 

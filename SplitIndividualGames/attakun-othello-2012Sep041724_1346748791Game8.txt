@@ -1,8 +1,0 @@
-Game8
- othello,1979 : 6                 attakun,1823 : 6
-  1)                             36: 24/18 13/10
-  2) 55: 6/1 6/1 8/3 8/3         64: 25/21 10/4
-  3)  Doubles => 2                Drops
-      Wins 1 point
-
- 

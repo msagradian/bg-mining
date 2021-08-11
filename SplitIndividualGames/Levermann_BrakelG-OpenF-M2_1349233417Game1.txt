@@ -1,8 +1,0 @@
-Game1
- Pappas : 0                      Levermann : 0
-  1) 42: 8/4 6/4                 21: 13/11 24/23 
-  2) 21: 13/11 24/23             44: 8/4 8/4 6/2* 6/2 
-  3) 62:                          Doubles => 2
-  4)  Drops                       Wins 1 point
-
- 

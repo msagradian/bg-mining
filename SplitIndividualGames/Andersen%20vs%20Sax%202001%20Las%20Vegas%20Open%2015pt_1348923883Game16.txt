@@ -1,7 +1,0 @@
-Game16
- Steve Sax : 11                  Mads Andersen : 14
-  1) 45: 13/8 24/20              43: 24/20 8/5* 
-  2)  Doubles => 2                Drops
-      Wins 1 point               
-
- 

@@ -1,9 +1,0 @@
-Game3
- rino : 2                               Caggammon : 2
-  1) 43: 24/21 13/9                     53: 24/16*
-  2) 66: Cannot Move                    44: 8/4*(2) 6/2(2)
-  3) 32: bar/22                          Doubles => 2
-  4)  Drops                              Wins 1 point
-
-
- 

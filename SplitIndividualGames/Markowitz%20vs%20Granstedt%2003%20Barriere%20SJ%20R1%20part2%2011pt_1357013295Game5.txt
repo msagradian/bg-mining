@@ -1,9 +1,0 @@
-Game5
- Jorgen Granstedt : 2            Howard Markowitz : 3
-  1)                             62: 13/7 7/5 
-  2) 32: 24/21 13/11             51: 13/8 6/5 
-  3) 51: 21/16 16/15             32: 13/10* 24/22 
-  4) 66:                          Doubles => 2
-  5)  Drops                       Wins 1 point
-
- 

@@ -1,9 +1,0 @@
-Game7
- Hugh McNeil : 1                 Martin Barkwill : 12
-  1) 46: 8/2 6/2                 33: 8/5 8/5 6/3 6/3 
-  2) 32: 24/21 13/11             43: 8/4* 24/21 
-  3) 42: 25/21* 6/4*             66: 
-  4)  Doubles => 2                Drops
-      Wins 1 point               
-
- 

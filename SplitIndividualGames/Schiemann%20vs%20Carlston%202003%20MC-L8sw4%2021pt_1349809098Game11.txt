@@ -1,9 +1,0 @@
-Game11
- Dirk Schiemann : 12             Dennis Carlston : 6
-  1)                             52: 13/8 24/22 
-  2) 13: 8/5 6/5                 54: 22/18 18/13 
-  3) 41: 24/20 6/5               33: 8/5* 8/5 6/3 6/3 
-  4) 55:                          Doubles => 2
-  5)  Drops                       Wins 1 point
-
- 

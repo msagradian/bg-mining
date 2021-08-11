@@ -1,5 +1,0 @@
-Game13
- Malcolm Davis : 10              Bob Zavoral : 9
-  1) 25: Illegal play (11;0;1;0;0;Bob Zavoral;Malcolm Davis;0;9;10;1;0;0;1;1;2;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-1;0;0;-2;0;0;6;6;)  Doubles => 2
-  2)  Takes                      66: 4/0 4/0 3/0 3/0 
-                                  Wins 2 points and the match

@@ -1,9 +1,0 @@
-Game9
- Stefano Caroli : 8             Carlo Melzi : 3
-  1) 31: 8/5 6/5                 53: 8/3 6/3 
-  2) 55: 13/8 13/8 8/3 8/3       63: 24/18 18/15 
-  3) 21: 13/11 11/10*            63: 
-  4)  Doubles => 2                Drops
-      Wins 1 point
-
- 

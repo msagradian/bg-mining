@@ -1,9 +1,0 @@
-Game8
- kitaji : 5                            TJ : 10
-  1) 65: 24/13                         54: 24/20 13/8                    
-  2)  Doubles => 2                      Drops                            
-      Wins 1 point
-
-
-
- 

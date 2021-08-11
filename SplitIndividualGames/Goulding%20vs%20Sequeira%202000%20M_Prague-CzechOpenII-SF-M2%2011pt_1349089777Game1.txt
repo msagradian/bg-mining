@@ -1,9 +1,0 @@
-Game1
- Kent Goulding : 0               Mario Sequeira : 0
-  1)                             63: 24/18 13/10 
-  2) 31: 8/5 6/5                 31: 8/5 6/5 
-  3) 63: 24/18 18/15*            55: 
-  4)  Doubles => 2                Drops
-      Wins 1 point               
-
- 

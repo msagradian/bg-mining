@@ -1,8 +1,0 @@
-Game1
- Mochizuki : 0                   Litzenberger : 0
-  1)                             62: 24/18 13/11 
-  2) 43: 13/9 24/21              22: 18/16* 13/11 6/4* 6/4 
-  3) 62: 25/23                    Doubles => 2
-  4)  Drops                       Wins 1 point
-
- 

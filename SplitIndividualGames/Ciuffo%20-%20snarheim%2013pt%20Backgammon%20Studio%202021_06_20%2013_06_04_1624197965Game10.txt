@@ -1,7 +1,0 @@
-Game10
- Ciuffo : 5                             snarheim : 12
-  1) 21: 24/23 13/11                    62: 24/18 13/11
-  2)  Doubles => 2                       Drops
-  3)  Wins 1 point                      
-
- 

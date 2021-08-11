@@ -1,7 +1,0 @@
-Game8
- David Wells : 9                 Tobias Hellwag : 8
-  1) 34: 24/20 13/10             33: 8/5* 8/5 6/3 6/3 
-  2) 54: 25/21 13/8               Doubles => 2
-  3)  Drops                       Wins 1 point
-
- 
